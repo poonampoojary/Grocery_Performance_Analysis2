@@ -1,15 +1,12 @@
 🛒 Grocery Performance Analysis Dashboard
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi" />
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Excel-Dataset-green?logo=microsoftexcel" />
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
-</p>📌 Project Overview
+"Power BI" (https://img.shields.io/badge/Tool-Microsoft%20Power%20BI-yellow?logo=powerbi)
 
-The Grocery Performance Analysis Dashboard is an interactive data analytics project developed using Microsoft Power BI.
+📌 Project Overview
 
-The project analyses 500 grocery sales records to understand sales performance, product categories, regional performance, customer returns and monthly sales trends.
+The Grocery Performance Analysis Dashboard is an interactive data analytics project developed entirely using Microsoft Power BI.
+
+The project analyses 500 grocery sales records to understand sales performance, product categories, regional sales, sales channels, customer returns and refund amounts.
 
 🎯 Project Objectives
 
@@ -20,54 +17,33 @@ The project analyses 500 grocery sales records to understand sales performance, 
 - Analyse returned quantities and refund amounts.
 - Identify monthly sales trends.
 
-🛠️ Tools & Technologies
+📊 Dashboard KPIs
 
-Tool| Purpose
-📊 Power BI| Dashboard creation and visualisation
-⚡ DAX| Measures and calculations
-🔄 Power Query| Data cleaning and transformation
-📗 Microsoft Excel| Dataset management
+- Total Net Sales
+- Total Orders
+- Total Units Sold
+- Total Returned Quantity
+- Total Refund Amount
+- Return Rate
 
-📈 Key Performance Indicators (KPIs)
+📈 Visualizations
 
-- 💰 Total Net Sales
-- 🛍️ Total Orders
-- 📦 Total Units Sold
-- ↩️ Total Returned Quantity
-- 💸 Total Refund Amount
-- 📉 Return Rate
+- Net Sales by Sales Channel
+- Net Sales by Product Category
+- Top 10 Products by Net Sales
+- Regional Sales Performance
+- Returned Quantity by Return Reason
+- Monthly Net Sales Trend
 
-📊 Dashboard Visualizations
+🛠️ Tool Used
 
-1. 🍩 Net Sales by Sales Channel
-2. 📊 Net Sales by Product Category
-3. 🏆 Top 10 Products by Net Sales
-4. 🌍 Regional Sales Performance
-5. ↩️ Returned Quantity by Return Reason
-6. 📈 Monthly Net Sales Trend
+- Microsoft Power BI
 
-🎛️ Interactive Filters
-
-- 📅 Order Date
-- 🛒 Category
-- 🌎 Region
-- 💳 Sales Channel
-
-📂 Project Files
+📁 Project Files
 
 - "GROCERY_DASHBOARD.pbix" – Power BI dashboard file.
-- "sales_practice_data.xlsx" – Grocery sales dataset.
-
-💡 Key Learnings
-
-- Data cleaning and transformation.
-- Creating DAX measures.
-- Building interactive dashboards.
-- KPI analysis and business reporting.
-- Data visualisation and insights generation.
+- "sales_practice_data.xlsx" – Original dataset.
 
 👩‍💻 Author
 
 Poonam Poojary
-
-📌 Aspiring Data Analyst
