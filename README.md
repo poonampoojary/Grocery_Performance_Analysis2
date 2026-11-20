@@ -1,12 +1,12 @@
 🛒 Grocery Performance Analysis Dashboard
 
-"Power BI" (https://img.shields.io/badge/Tool-Microsoft%20Power%20BI-yellow?logo=powerbi)
+"Power BI" (https://img.shields.io/badge/Microsoft%20Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi&logoColor=black)
 
 📌 Project Overview
 
 The Grocery Performance Analysis Dashboard is an interactive data analytics project developed entirely using Microsoft Power BI.
 
-The project analyses 500 grocery sales records to understand sales performance, product categories, regional sales, sales channels, customer returns and refund amounts.
+The project analyses 500 grocery sales records to understand sales performance, product categories, regional performance, sales channels, customer returns and refund amounts.
 
 🎯 Project Objectives
 
@@ -41,8 +41,8 @@ The project analyses 500 grocery sales records to understand sales performance, 
 
 📁 Project Files
 
-- "GROCERY_DASHBOARD.pbix" – Power BI dashboard file.
-- "sales_practice_data.xlsx" – Original dataset.
+- "GROCERY_DASHBOARD.pbix" – Power BI dashboard.
+- "sales_practice_data.xlsx" – Dataset.
 
 👩‍💻 Author
 
