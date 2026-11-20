@@ -1,7 +1,5 @@
 🛒 Grocery Performance Analysis Dashboard
 
-"Power BI" (https://img.shields.io/badge/Microsoft%20Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi&logoColor=black)
-
 📌 Project Overview
 
 The Grocery Performance Analysis Dashboard is an interactive data analytics project developed entirely using Microsoft Power BI.
